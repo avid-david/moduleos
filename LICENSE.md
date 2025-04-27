@@ -1,0 +1,1 @@
+[MODULEOS](https://github.com/avid-david/moduleos) © 2025 by [David Chorváth](https://github.com/avid-david) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
